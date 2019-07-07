@@ -1,0 +1,2 @@
+# gocmd
+cmd go
